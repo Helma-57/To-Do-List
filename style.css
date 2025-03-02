@@ -108,7 +108,7 @@ li.high {
 
 /* Dark Mode */
 body.dark-mode {
-    background-color: #0e0e0e;
+    background-color: #d19dccc1;
 }
 
 .todo-container.dark-mode {
