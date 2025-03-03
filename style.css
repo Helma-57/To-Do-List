@@ -180,3 +180,34 @@ body.dark-mode {
     background-color: #333;
     color: #fff;
 }
+
+
+.social-icons {
+    margin-top: 10px;
+}
+
+.social-icon {
+    margin: 0 10px;
+    color: #555;
+    font-size: 1.5rem;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.social-icon:hover {
+    color: #0077b5; /* LinkedIn blue color for hover effect */
+}
+
+/* Dark Mode Footer */
+.dark-mode .footer {
+    background-color: #333;
+    color: #fff;
+}
+
+.dark-mode .social-icon {
+    color: #fff;
+}
+
+.dark-mode .social-icon:hover {
+    color: #0077b5; /* LinkedIn blue on hover in dark mode */
+}
