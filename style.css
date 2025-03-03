@@ -1,16 +1,16 @@
-/* Basic Styles */
+
+/* Body Styles */
 body {
     font-family: 'Monospace', Monaco;
     background-color: #f5f5f5;
     display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
+    flex-direction: column; /* Ensure elements stack vertically */
+    justify-content: flex-start; /* Ensure content starts from the top */
+    min-height: 100vh; /* Ensure the body takes up full height of the viewport */
     margin: 0;
     padding: 20px;
     box-sizing: border-box;
 }
-
 .todo-container {
     background-color: rgba(139, 194, 223, 0.944);
     padding: 25px;
@@ -163,4 +163,20 @@ body.dark-mode {
         padding: 8px 15px;
         font-size: 0.9rem;
     }
+}
+/* Footer Styles */
+.footer {
+    text-align: center;
+    font-size: 0.9rem;
+    color: #555;
+    padding: 15px;
+    margin-top: 20px;
+    background-color: #f5f5f5;
+    border-top: 1px solid #ddd;
+}
+
+/* Dark Mode Footer */
+.dark-mode .footer {
+    background-color: #333;
+    color: #fff;
 }
