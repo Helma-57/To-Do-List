@@ -1,16 +1,19 @@
 
-/* Body Styles */
 body {
     font-family: 'Monospace', Monaco;
-    background-color: #f5f5f5;
+    background-image: url('assets/image2.jpg'); 
+    background-size: cover; 
+    background-position: center; 
+    background-attachment: fixed; 
     display: flex;
-    flex-direction: column; /* Ensure elements stack vertically */
-    justify-content: flex-start; /* Ensure content starts from the top */
-    min-height: 100vh; /* Ensure the body takes up full height of the viewport */
+    flex-direction: column;
+    justify-content: flex-start;
+    min-height: 100vh;
     margin: 0;
     padding: 20px;
     box-sizing: border-box;
 }
+
 .todo-container {
     background-color: rgba(139, 194, 223, 0.944);
     padding: 25px;
