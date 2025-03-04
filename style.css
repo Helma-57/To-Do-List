@@ -121,13 +121,13 @@ body.dark-mode {
 
 /* Dark Mode Toggle Button */
 .dark-mode-toggle {
-    background-color: #2a2929;
+    background-color: transparent;
     color: #fff;
     border: none;
     border-radius: 20px;
     padding: 10px 20px;
     cursor: pointer;
-    font-size: 1rem;
+    font-size: 1.5rem; /* Adjusted size to fit the icon */
     transition: background-color 0.3s, color 0.3s;
 }
 
@@ -142,6 +142,10 @@ body.dark-mode {
 
 .dark-mode .dark-mode-toggle:hover {
     background-color: #aaa;
+}
+
+.dark-mode .dark-mode-toggle i {
+    font-size: 1.8rem; 
 }
 
 /* Responsive Design */
