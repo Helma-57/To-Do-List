@@ -5,7 +5,7 @@ Here’s a detailed breakdown of the key features:
 ### Key Features:
 
 1. **Task Management**:
-   - Users can easily add tasks with descriptions, due dates, categories (Work, Personal, Shopping), and priority levels (Low, Medium, High).
+   - Users can easily add tasks with descriptions, due dates, categories (Work, Personal), and priority levels (Low, Medium, High).
    - Each task is visually differentiated by priority, with different background colors for easy identification.
 
 2. **Task Editing**:
@@ -20,7 +20,7 @@ Here’s a detailed breakdown of the key features:
    - The progress percentage is displayed numerically to give users a sense of their productivity.
 
 5. **Category Filters**:
-   - Users can filter tasks by categories (Work, Personal, Shopping) to view only specific types of tasks.
+   - Users can filter tasks by categories (Work, Personal) to view only specific types of tasks.
 
 6. **Due Date and Reminders**:
    - When a task is added with a due date, the app automatically sets a reminder to notify the user when the task is due.
