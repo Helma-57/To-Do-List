@@ -32,8 +32,8 @@ Here’s a detailed breakdown of the key features:
    - The app is fully responsive, meaning it adapts to different screen sizes and is usable on all devices, from desktops to smartphones.
 
 ### Tech Stack:
-- **HTML**: Structure of the app, including task inputs and the layout of the to-do list.
-- **CSS**: Styling for a clean interface, with support for dark mode and responsive design to ensure a great user experience across devices.
-- **JavaScript**: Core functionality including task management, progress tracking, dark mode toggling, task reminders, and dynamic updates of the task list and progress bar.
+- **HTML**: Structure of the app, including task inputs and the layout of the to-do list. 🏗
+- **CSS**: Styling for a clean interface, with support for dark mode and responsive design to ensure a great user experience across devices🎨 .
+- **JavaScript**: Core functionality including task management, progress tracking, dark mode toggling, task reminders, and dynamic updates of the task list and progress bar⚡ .
 
 This app is perfect for users looking to organize their tasks efficiently while enjoying a modern, visually appealing, and customizable interface.
